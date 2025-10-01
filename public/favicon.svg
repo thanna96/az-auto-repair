@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+    <title id="title">A-Z Auto icon</title>
+    <desc id="desc">Stylized badge logo for A-Z Auto with bold lettering</desc>
+    <defs>
+        <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#102542"/>
+            <stop offset="100%" stop-color="#1f3b63"/>
+        </linearGradient>
+    </defs>
+    <rect width="64" height="64" rx="14" fill="url(#bg)"/>
+    <path d="M18 44 L28.5 20 L39 44 L34.2 44 L31.6 38 H25.4 L22.8 44 Z" fill="#ffd166"/>
+    <rect x="40" y="30.8" width="9" height="3.2" rx="1.6" fill="#ff8c42"/>
+    <path d="M41 44 L54 44 L54 40.8 L45.7 33.4 L53.6 33.4 L53.6 29.4 L40 29.4 L40 32.7 L48.6 40 L41 40 Z" fill="#ffd166"/>
+    <text x="32" y="53" text-anchor="middle" font-size="9" font-family="'Montserrat', 'Poppins', 'Helvetica Neue', Arial, sans-serif" fill="#ef476f" letter-spacing="1">
+        AUTO
+    </text>
+</svg>
