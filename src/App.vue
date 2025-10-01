@@ -68,17 +68,17 @@
         <div class="service-grid">
           <article class="service-card">
             <h3>Preventive Maintenance</h3>
-            <p>Oil Changes, Filters, Tune-Ups, and Fuel System Services.</p>
+            <p>Oil Changes, Filters, Tune-Ups, Mufflers/Pipes, Cat. Converter, Exhaust System and Fuel System Services.</p>
             <span class="service-note">Starting at $XX.XX</span>
           </article>
           <article class="service-card">
             <h3>Brakes &amp; Suspension</h3>
-            <p>Pads, Rotors, Struts, Shocks, Alignments, and More.</p>
+            <p>Pads, Rotors, Front End, CV Joints, Struts, Shocks, Alignments, and More.</p>
             <span class="service-note">Free brake inspections</span>
           </article>
           <article class="service-card">
             <h3>Engine Diagnostics</h3>
-            <p>Check-Engine Lights, Drivability Issues, and Performance Tuning.</p>
+            <p>Check-Engine Lights, Timing Belts, Computer Diagnostics, Drivability Issues, and Performance Tuning.</p>
             <span class="service-note">Advanced Scan Tools</span>
           </article>
           <article class="service-card">
